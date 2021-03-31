@@ -7,6 +7,7 @@ permalink: /questions/css-questions/index.html
 * What is CSS selector specificity and how does it work?
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
+* Describe the difference between Borders and Outlines.
 * Describe z-index and how stacking context is formed.
 * Describe BFC (Block Formatting Context) and how it works.
 * What are the various clearing techniques and which is appropriate for what context?
